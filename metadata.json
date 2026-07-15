@@ -1,0 +1,6 @@
+{
+  "name": "LaunchForge",
+  "description": "AI-Powered Startup & App Idea Development Platform with Editorial Aesthetic",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
