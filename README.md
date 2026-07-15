@@ -35,7 +35,7 @@
 
 LaunchForge leverages a decoupled React frontend and Node.js backend. In addition to relational database syncing, it operates an advanced failover logic block for API requests.
 
-```mermaid
+
 graph TD
     subgraph Client Layer (React 19 SPA)
         App[App.tsx]
