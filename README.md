@@ -10,6 +10,8 @@
 
 **LaunchForge** is a premium, AI-powered Startup & App Idea Development Platform designed with a bold, high-contrast, neobrutalist/editorial aesthetic. It serves as an interactive incubator where founders, product leads, and hackers can transform raw product descriptions into production-ready software architecture plans.
 
+https://github.com/user-attachments/assets/ea0bd10c-b80b-480c-91cf-7189747076ef
+
 ---
 
 ## 🎨 Key Features & Functional Modules
